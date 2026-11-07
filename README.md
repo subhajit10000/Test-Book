@@ -1,1 +1,3 @@
 # Test-Book
+
+An educational quiz and test series website is an online learning platform designed to help students prepare for various competitive examinations through interactive quizzes, mock tests, and structured test series. It provides exam categories such as SSC, Railway, Banking, UPSC, State PSC, Defence, Police, and other competitive exams. Students can practice topic-wise questions, attempt full-length mock tests, track their performance, analyze strengths and weaknesses, and view their rankings on a leaderboard.
